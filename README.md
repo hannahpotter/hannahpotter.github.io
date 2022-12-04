@@ -1,2 +1,2 @@
-# hannahpotter.github.io
-Personal website
+# Personal Website
+
