@@ -43,7 +43,6 @@ table.table a {
     color: var(--global-theme-color);
     text-decoration: underline;
   }
-
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
   }
@@ -333,7 +332,6 @@ ul.task-list input[type="checkbox"] {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
       }
-
       &:hover {
         i::before {
           color: var(--global-theme-color);
@@ -353,7 +351,6 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 4px;
     transition: all 0.2s;
   }
-
   .top-bar {
     transform: rotate(45deg);
     transform-origin: 10% 10%;
@@ -389,7 +386,6 @@ ul.task-list input[type="checkbox"] {
   border: 0;
   background-color: inherit;
   color: var(--global-text-color);
-
   &:hover {
     color: var(--global-hover-color);
   }
@@ -435,7 +431,6 @@ ul.task-list input[type="checkbox"] {
       }
     }
   }
-
   .contact-note {
     font-size: 0.8rem;
   }
@@ -475,7 +470,6 @@ ul.task-list input[type="checkbox"] {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
-
   .container {
     color: var(--global-footer-text-color);
     padding-top: 9px;
@@ -551,7 +545,6 @@ footer.sticky-bottom {
   text-align: center;
   padding-top: 2rem;
   padding-bottom: 3rem;
-
   h1 {
     color: var(--global-theme-color);
     font-size: 5rem;
@@ -587,19 +580,16 @@ footer.sticky-bottom {
   margin: 0;
   margin-bottom: 40px;
   padding: 0;
-
   li {
     border-bottom: 1px solid var(--global-divider-color);
     list-style: none;
     padding-top: 2rem;
     padding-bottom: 2rem;
-
     .post-meta {
       color: var(--global-text-color-light);
       font-size: 0.875rem;
       margin-bottom: 0;
     }
-
     .post-tags {
       color: var(--global-text-color-light);
       font-size: 0.875rem;
@@ -696,7 +686,6 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
-
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
@@ -749,7 +738,6 @@ footer.sticky-bottom {
             }
           }
         }
-
         .award {
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
@@ -774,7 +762,6 @@ footer.sticky-bottom {
           border-bottom: 1px solid;
           font-style: normal;
         }
-
         > span.more-authors {
           color: var(--global-text-color-light);
           border-bottom: 1px dashed var(--global-text-color-light);
@@ -821,7 +808,6 @@ footer.sticky-bottom {
           }
         }
       }
-
       .hidden {
         font-size: 0.875rem;
         max-height: 0px;
@@ -837,14 +823,12 @@ footer.sticky-bottom {
           line-height: 1.4em;
           margin: 10px;
         }
-
         pre {
           font-size: 1em;
           line-height: 1.4em;
           padding: 10px;
         }
       }
-
       .hidden.open {
         max-height: 100em;
         transition-property: 0.15s ease;
