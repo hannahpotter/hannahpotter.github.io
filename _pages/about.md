@@ -1,25 +1,32 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student in the <a href="https://www.cs.washington.edu/">Paul G. Allen School of Computer Science and Engineering</a> at the University of Washington
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: hpotter_met.jpg
+  image_circular: true # crops the image to make it circular
+  address: #>
+    #<p>555 your office number</p>
+    #<p>123 your address street</p>
+    #<p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My primary research goal is to make programming better. I work on improving the explainability of programs and 
+    programming languages by surfacing important information to programmers, presenting this information in a way that is understandable and useful.
+   I am broadly interested in programming languages, software engineering, human computer interaction, and CS education.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a PhD student in the <a href="https://www.cs.washington.edu/">Paul G. Allen School of Computer Science and Engineering</a> at the University of Washington.
+I am advised by <a href="https://homes.cs.washington.edu/~rjust/">René Just</a>.
+Prior to this, I earned my MSE in Computer Science and Engineering from the University of Michigan, where I worked with <a href="https://web.eecs.umich.edu/~comar/">Cyrus Omar</a> leading the Hazel Tutor project.
+Before that, I earned my Honors BS in Computer Science from the University of Utah, where I worked with <a href="https://eliane-s-wiese.owlstown.net/">Eliane S. Wiese</a> on detecting poor coding patterns commonly seen in the work of early CS students by extending an existing code pattern matching tool.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Along with my research interests, I am passionate about improving access to computer science knowledge.
+    I am currently a PhD K-12 Outreach Coordinator for the Allen School, working to aide UW computer science PhD student outreach 
+    in the greater Washington area.

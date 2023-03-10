@@ -31,6 +31,10 @@
   .repo-img-dark {
     display: none;
   }
+
+  .card {
+    word-wrap: normal;
+  }
 }
 
 html[data-theme='dark'] {
