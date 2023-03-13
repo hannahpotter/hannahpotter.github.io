@@ -23,7 +23,7 @@ My primary research goal is to make programming better. I work on improving the 
    I am broadly interested in programming languages, software engineering, human computer interaction, and CS education.
 
 I am currently a PhD student in the <a href="https://www.cs.washington.edu/">Paul G. Allen School of Computer Science and Engineering</a> at the University of Washington.
-I am advised by <a href="https://homes.cs.washington.edu/~rjust/">René Just</a>.
+I am in the <a href="https://uwplse.org/">PLSE Group</a> and am advised by <a href="https://homes.cs.washington.edu/~rjust/">René Just</a>.
 Prior to this, I earned my MSE in Computer Science and Engineering from the University of Michigan, where I worked with <a href="https://web.eecs.umich.edu/~comar/">Cyrus Omar</a> leading the Hazel Tutor project.
 Before that, I earned my Honors BS in Computer Science from the University of Utah, where I worked with <a href="https://eliane-s-wiese.owlstown.net/">Eliane S. Wiese</a> on detecting poor coding patterns commonly seen in the work of early CS students by extending an existing code pattern matching tool.
 
