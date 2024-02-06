@@ -13,6 +13,7 @@
       institution: University of Washington
       year: present
       description:
+        - MS in Computer Science and Engineering (2023)
     - title: MSE in Computer Science and Engineering
       institution: University of Michigan
       year: 2021
@@ -79,6 +80,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - OOPSLA Best Paper Award
+        - ECOOP/ISSTA SRC 2nd Place
     - year: 2021
       items: 
         - NSF GRFP Honorable Mention

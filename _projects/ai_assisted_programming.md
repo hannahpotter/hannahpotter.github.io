@@ -20,6 +20,7 @@ Inspired by a discussion I had with René around my Qualifying Evaluation talk a
 
 There are a lot of interesting questions to explore around AI assisted programming! In particular, I am interested in questions like:
 <ul>
+    <li> How can AI be used to improve reading and understanding programs and program changes?
     <li> How can we make it easier for people to understand AI suggestions?
     <li> How can we aide people in debugging AI suggestions that are close, but not quite right?
     <li> How can we support people in providing quality queries to the AI system?
