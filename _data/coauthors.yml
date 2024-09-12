@@ -14,10 +14,6 @@
   - firstname: ["Yongwei"]
     url: https://victoryyw.github.io
 
-"Guest":
-  - firstname: ["Scott"]
-    url: https://www.linkedin.com/in/scott-guest/
-
 "Griffis":
   - firstname: ["Eric"]
     url: https://dedbox.github.io
@@ -25,3 +21,11 @@
 "Moon":
   - firstname: ["David"]
     url: https://dmoon.info
+
+"Kushigian":
+  - firstname: ["Benjamin"]
+    url: https://bkushigian.github.io
+
+"Kaufman":
+  - firstname: ["Samuel J."]
+    url: http://samk.name
