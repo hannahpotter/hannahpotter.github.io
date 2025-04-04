@@ -6,7 +6,7 @@ subtitle: PhD student in the <a href="https://www.cs.washington.edu/">Paul G. Al
 
 profile:
   align: right
-  image: hpotter_met.jpg
+  image: hpotter_met.JPG
   image_circular: true # crops the image to make it circular
   more_info: #>
     #<p>555 your office number</p>
