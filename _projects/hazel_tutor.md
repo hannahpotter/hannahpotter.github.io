@@ -3,8 +3,8 @@ layout: page
 title: Hazel Tutor
 description: Because learning a new programming language is hard.
 img: assets/img/explainthis_new.png
-importance: 1
-category: active
+importance: 3
+category: thinking about
 ---
 
 Learning a new programming language is difficult. We are investigating ideas for programming tools to

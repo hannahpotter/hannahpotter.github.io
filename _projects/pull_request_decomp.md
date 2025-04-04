@@ -3,7 +3,7 @@ layout: page
 title: Pull Request Decomposition
 description: Because reviewing pull requests is hard.
 img: assets/img/pull_request.png
-importance: 2
+importance: 1
 category: thinking about
 ---
 

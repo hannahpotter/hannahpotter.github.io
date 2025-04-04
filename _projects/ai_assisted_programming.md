@@ -3,7 +3,7 @@ layout: page
 title: AI Assisted Programming
 description: Because standard programming language interfaces are hard.
 img: assets/img/ai_assist.png
-importance: 3
+importance: 2
 category: thinking about
 ---
 

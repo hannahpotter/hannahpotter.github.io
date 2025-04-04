@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My primary research goal is to make programming better. I work on improving the explainability of programs and 
-    programming languages by surfacing important information to programmers, presenting this information in a way that is understandable and useful.
+My primary research goal is to make programming better. I work on improving the explainability of programs, 
+    programming languages, and program analyses by surfacing important information to programmers, presenting this information in a way that is understandable and useful.
    I am broadly interested in programming languages, software engineering, human computer interaction, and CS education.
 
 I am currently a PhD student in the <a href="https://www.cs.washington.edu/">Paul G. Allen School of Computer Science and Engineering</a> at the University of Washington.
@@ -37,5 +37,4 @@ Prior to this, I earned my MSE in Computer Science and Engineering from the Univ
 Before that, I earned my Honors BS in Computer Science from the University of Utah, where I worked with <a href="https://eliane-s-wiese.owlstown.net/">Eliane S. Wiese</a> on detecting poor coding patterns commonly seen in the work of early CS students by extending an existing code pattern matching tool.
 
 Along with my research interests, I am passionate about improving access to computer science knowledge.
-    I am currently a PhD K-12 Outreach Coordinator for the Allen School, working to aide UW computer science PhD student outreach 
-    in the greater Washington area.
+    I am currently the PhD K-12 Outreach Coordinator for the Allen School, helping connect PhD students, post-docs, and other researchers with outreach opportunities in the greater Seattle area.
