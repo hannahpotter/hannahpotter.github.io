@@ -14,7 +14,7 @@ Learning a new programming language is difficult. We are investigating ideas for
    
    The Cursor Inspector 
    displays typing information about the expression or pattern at the cursor. The Strategy Guide is designed
-   to guide novices through a type-driven development strategy. The <a href="https://hazel.org/build/strategy-guide/index.html">demo</a> for these two tools is available online. For more details about this work, check out our <a href="assets/pdf/hazeltutor-hatra2020.pdf">HATRA paper</a>!
+   to guide novices through a type-driven development strategy. For more details about this work, check out our <a href="../assets/pdf/hazeltutor-hatra2020.pdf">HATRA paper</a>!
 
    <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -28,7 +28,7 @@ Learning a new programming language is difficult. We are investigating ideas for
     On the left is the Cursor Inspector. On the right is the Strategy Guide.
 </div>
 
-   ExplainThis is a contextualized programming language documentation tool, which provides information about the syntactic form, an explanation, and examples for the term at the cursor. The <a href="https://hazel.org/build/explainthis/">demo</a> for ExplainThis is also available online. I collaborated with <a href="http://madadi.one/">Ardi Madadi</a> on this project. For more details about this work, check out our <a href="assets/pdf/explainthis-onward22.pdf">Onward! paper</a>!
+   ExplainThis is a contextualized programming language documentation tool, which provides information about the syntactic form, an explanation, and examples for the term at the cursor. <a href="https://hazel.org/build/dev/">Try ExplainThis</a> online! I collaborated with <a href="http://madadi.one/">Ardi Madadi</a> on this project. For more details about this work, check out our <a href="../assets/pdf/explainthis-onward22.pdf">Onward! paper</a>!
 
    <div class="row">
     <div class="col-sm mt-3 mt-md-0">

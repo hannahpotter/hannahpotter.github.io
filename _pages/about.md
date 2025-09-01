@@ -27,14 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My primary research goal is to make programming better. I work on improving the explainability of programs, 
-    programming languages, and program analyses by surfacing important information to programmers, presenting this information in a way that is understandable and useful.
-   I am broadly interested in programming languages, software engineering, human computer interaction, and CS education.
+My primary research interest is in improving programmer comprehension of code, program analyses, and programming lanugages, with my most recent
+focus being on comprehension of program changes (e.g., pull requests).
+   I am broadly interested in software engineering, programming languages, human computer interaction, and CS education.
 
 I am currently a PhD student in the <a href="https://www.cs.washington.edu/">Paul G. Allen School of Computer Science and Engineering</a> at the University of Washington.
 I am in the <a href="https://uwplse.org/">PLSE Group</a> and am advised by <a href="https://homes.cs.washington.edu/~rjust/">René Just</a>.
-Prior to this, I earned my MSE in Computer Science and Engineering from the University of Michigan, where I worked with <a href="https://web.eecs.umich.edu/~comar/">Cyrus Omar</a> leading the Hazel Tutor project.
+Prior to this, I earned my MSE in Computer Science and Engineering from the University of Michigan, where I worked with <a href="https://web.eecs.umich.edu/~comar/">Cyrus Omar</a> leading the Hazel Tutor project, building tools to support experienced programmers learning a new programming language.
 Before that, I earned my Honors BS in Computer Science from the University of Utah, where I worked with <a href="https://eliane-s-wiese.owlstown.net/">Eliane S. Wiese</a> on detecting poor coding patterns commonly seen in the work of early CS students by extending an existing code pattern matching tool.
 
 Along with my research interests, I am passionate about improving access to computer science knowledge.
-    I am currently the PhD K-12 Outreach Coordinator for the Allen School, helping connect PhD students, post-docs, and other researchers with outreach opportunities in the greater Seattle area.
+    I was the PhD K-12 Outreach Coordinator for the Allen School for 3 years, helping connect PhD students, post-docs, and other researchers with outreach opportunities in the greater Seattle area.
