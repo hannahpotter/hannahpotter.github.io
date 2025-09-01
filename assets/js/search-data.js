@@ -42,22 +42,27 @@ ninja.data = [{
           section: "News",},{id: "news-we-were-selected-for-a-best-paper-award-for-our-oopsla-paper-on-live-pattern-matching-with-typed-holes",
           title: 'We were selected for a best paper award for our OOPSLA paper on...',
           description: "",
-          section: "News",},{id: "news-ben-presented-our-work-on-identifying-and-suppressing-equivalent-mutatns-for-java-programs-at-issta-2024",
-          title: 'Ben presented our work on Identifying and Suppressing Equivalent Mutatns for Java Programs...',
+          section: "News",},{id: "news-ben-presented-our-work-on-identifying-and-suppressing-equivalent-mutants-for-java-programs-at-issta-2024",
+          title: 'Ben presented our work on Identifying and Suppressing Equivalent Mutants for Java Programs...',
           description: "",
-          section: "News",},{id: "news-our-work-on-evaluating-the-impact-of-scaffolding-and-visualizations-for-mutation-testing-exercises-in-software-engineering-education-has-been-accepted-to-the-software-engineering-education-track-for-fse-2025",
-          title: 'Our work on evaluating the impact of scaffolding and visualizations for mutation testing...',
+          section: "News",},{id: "news-i-presented-our-work-on-evaluating-the-impact-of-scaffolding-and-visualizations-for-mutation-testing-exercises-in-software-engineering-education-at-the-software-engineering-education-track-at-fse-2025",
+          title: 'I presented our work on evaluating the impact of scaffolding and visualizations for...',
           description: "",
           section: "News",},{id: "projects-ai-assisted-programming",
           title: 'AI Assisted Programming',
           description: "Because standard programming language interfaces are hard.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ai_assisted_programming.html";
-            },},{id: "projects-code-tours",
-          title: 'Code Tours',
+            },},{id: "projects-bug-mining",
+          title: 'Bug Mining',
+          description: "Because mining real-world reproducible bugs is hard.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bug_mining.html";
+            },},{id: "projects-change-tours",
+          title: 'Change Tours',
           description: "Because understanding a code change is hard.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/cod_tours.html";
+              window.location.href = "/projects/change_tours.html";
             },},{id: "projects-hazel-tutor",
           title: 'Hazel Tutor',
           description: "Because learning a new programming language is hard.",
