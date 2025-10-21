@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My primary research interest is in improving programmer comprehension of code, program analyses, and programming lanugages, with my most recent
+My primary research interest is in improving programmer comprehension of code, program analyses, and programming languages, with my most recent
 focus being on comprehension of program changes (e.g., pull requests).
    I am broadly interested in software engineering, programming languages, human computer interaction, and CS education.
 
